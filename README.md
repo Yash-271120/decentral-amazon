@@ -1,4 +1,4 @@
-# Dappazon
+# Decentral-Amazon
 
 ## Technology Stack & Tools
 
